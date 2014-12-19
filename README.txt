@@ -2,10 +2,10 @@
 
 ------ CONTROLS ------
 
-Forward: Arrow-Up
-Backward: Arrow-Down
-Steer Left: Arrow-Left
-Steer Right: Arrow-Right
+Forward: Arrow-Up or "W"
+Backward: Arrow-Down or "S"
+Steer Left: Arrow-Left or "A"
+Steer Right: Arrow-Right or "D"
 
 Shoot: Ctrl or Left-Mouse-Button
 
