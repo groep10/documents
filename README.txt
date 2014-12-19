@@ -30,6 +30,8 @@ The game is divided in 2 parts, a racing part and a mini-game part.
 You start out with the  mini-game part where the goal is to ride over the top of the checkpoint as fast as 
 you can. The checkpoint is indicated by a helix particle effect arising from it.
 
+NOTE: If you land on your side or your back just wait 3 seconds and you will be able to drive on
+
 Once all players have crossed the checkpoint or when the time-limit of 60 seconds since the game was generated 
 has passed the mini-game will start.
 
