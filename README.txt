@@ -10,7 +10,7 @@ Steer Right: Arrow-Right
 Shoot: Ctrl or Left-Mouse-Button
 
 Reset player: "R" (this is to be used in case you get stuck and got nowhere to go. 
-			A reset function will be invoked within 5 seconds)
+			A reset function will be invoked 5 seconds after pressing the "R"-key)
 
 
 ------ Short explanation -------
